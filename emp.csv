@@ -1,0 +1,16 @@
+"","Empid","name","desig","depart","salary","joiningDate","contactno","city","gender","percent"
+"1",1002,"sadaf","manager","it",60000,"2019-11-02",8648514,"mumbai","female",6000
+"2",1003,"mariyam","web-development","cs",200000,"2019-11-06",8648514,"delhi","female",20000
+"3",1004,"xyz","manager","ds",40000,"2019-11-01",24548514,"goa","male",4000
+"4",1005,"Geeta","accoutent","it",620000,"2019-03-08",34566414,"pune","female",62000
+"5",1006,"sagar","manager","development",30000,"2019-01-31",256848514,"gujrat","male",3000
+"6",1007,"abc","emp","it",610000,"2019-07-04",325364,"mumbai","male",61000
+"7",1008,"Ram","boss","cs",50000,"2019-11-13",3248648514,"mumbai","male",5000
+"8",1009,"jyr","emp","ds",70000,"2019-12-12",345778514,"goa","female",7000
+"9",1010,"thye","manager","cyber",860000,"2019-08-04",12235668514,"delhi","female",86000
+"10",1011,"qweer","emp","cyber",340000,"2019-03-23",21455514,"mumbai","male",34000
+"11",1013,"dewe","manager","it",40000,"2019-04-23",32558514,"pune","male",4000
+"12",1015,"bvn","tecnician","cs",10000,"2019-01-04",141148514,"pune","female",1000
+"13",1018,"swtr","manager","software",660000,"2019-04-02",12234648514,"mumbai","male",66000
+"14",1022,"ettty","emp","ds",900000,"2019-10-04",3466714,"goa","female",90000
+"15",1045,"qdge","quality","it",90000,"2019-01-10",424648514,"UP","male",9000
